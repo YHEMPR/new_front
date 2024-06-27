@@ -5,7 +5,7 @@
                       src="src\assets\images\background.jpeg"/>
         </div>
         <div class="welcome-title">
-            <div style="font-size: 70px;font-weight: bold">欢迎来到小SHU书</div>
+            <div style="font-size: 70px;font-weight: bold">欢迎来到SHU书</div>
             <div style="font-size: 70px;font-weight: bold">资料共享平台</div>
         </div> 
         <div class="right-card">
